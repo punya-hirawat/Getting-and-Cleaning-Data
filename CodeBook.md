@@ -35,6 +35,6 @@ features_labels: contains the labels or column names for the merged features dat
 mean_stdev: contains all features columns name's which have either mean or standard deviation in their name
 subset: is the reduced version of the features data set containing only the column names present in mean_stdev
 
-subjectactivity: merged data set containing activity of each subject
+subjectactivity: merged data set containing activity of each subject  
 finaldata: created from merging the subjectactivity and subdata data sets
 cleandata: is the final tidy/clean data. Contains activity of each subject and the average of each variable
