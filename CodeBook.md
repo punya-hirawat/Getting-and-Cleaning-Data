@@ -20,12 +20,12 @@ Galaxy Accelerometer
 Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 The script performs the following functions:  
--Loading test and train activity, subject and feature data sets  
--Merging these test and train data sets into single activity, subject and feature data sets  
--Renaming the columns  
--Obtaining the required mean and standard deviation data set  
--Aggregating this data based on subject and activity type  
--Creating a cleaned data set with the required data
+- Loading test and train activity, subject and feature data sets  
+- Merging these test and train data sets into single activity, subject and feature data sets  
+- Renaming the columns  
+- Obtaining the required mean and standard deviation data set  
+- Aggregating this data based on subject and activity type  
+- Creating a cleaned data set with the required data
 
 
 The code to perform all of the above is given below:
